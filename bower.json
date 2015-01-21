@@ -1,0 +1,22 @@
+{
+  "name": "angular-watchcount",
+  "version": "0.0.1",
+  "homepage": "https://github.com/CDKGlobal/angular-watchcount",
+  "authors": [
+    "VenkatapathiRaju Mandapati <mvpspl619@gmail.com>"
+  ],
+  "description": "An AngularJS module that counts the watchers on a page",
+  "main": "angular-watchcount.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "src",
+    "Gruntfile.js",
+    "package.json",
+    ".gitignore",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
