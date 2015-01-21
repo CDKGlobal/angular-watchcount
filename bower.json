@@ -5,8 +5,11 @@
   "authors": [
     "VenkatapathiRaju Mandapati <mvpspl619@gmail.com>"
   ],
+  "dependencies": { 
+    "angular-toastr": "~0.5.2"
+  },
   "description": "An AngularJS module that counts the watchers on a page",
-  "main": "angular-watchcount.js",
+  "main": "dist/angular-watchcount.js",
   "license": "MIT",
   "ignore": [
     "**/.*",
