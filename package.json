@@ -1,0 +1,25 @@
+{
+  "name": "angular-watchcount",
+  "version": "1.0.0",
+  "description": "An AngularJS module that counts watchers on a page",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CDKGlobal/angular-watchcount.git"
+  },
+  "keywords": [
+    "angularjs",
+    "watchcount"
+  ],
+  "author": "VenkatapathiRaju Mandapati",
+  "bugs": {
+    "url": "https://github.com/CDKGlobal/angular-watchcount/issues"
+  },
+  "homepage": "https://github.com/CDKGlobal/angular-watchcount",
+  "devDependencies": {
+    "bower": "^1.3.12"
+  }
+}
